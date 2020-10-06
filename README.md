@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  :books: Shop App
+  :passenger_ship: Titanic Machine Learning
 </h1>
 
 <p align="center">
@@ -48,4 +48,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## :newspaper: Acknowledgments
 
-- React
+- Python
+- Machine Learning
+- Titanic
+- Kaggle
+- Scikit-learn
+- Decision Tree
+- Random Forest Regressor
