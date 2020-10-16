@@ -36,8 +36,10 @@ Now can you check *[Colab](https://github.com/franklaercio/titanic_machine_learn
 
 *Can you download the files:*
 ˋgit clone https://github.com/franklaercio/titanic_machine_learning.gitˋ 
+
 *Or clone url on Google Colab:*
-![Exemplo import Google Colab](https://user-images.githubusercontent.com/38151364/96202742-64e03d00-0f36-11eb-98cc-b6dd2f8d141a.png)
+
+<img tile="Exemplo import Google Colab" src="https://user-images.githubusercontent.com/38151364/96202742-64e03d00-0f36-11eb-98cc-b6dd2f8d141a.png" width="500">
 
 ## :family: Contributing
 
