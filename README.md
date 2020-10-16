@@ -35,7 +35,7 @@ Now can you check *[Colab](https://github.com/franklaercio/titanic_machine_learn
 ## :mag_right: Getting Started
 
 *Can you download the files:*
-ˋgit clone https://github.com/franklaercio/titanic_machine_learning.gitˋ 
+```git clone https://github.com/franklaercio/titanic_machine_learning.git``` 
 
 *Or clone url on Google Colab:*
 
